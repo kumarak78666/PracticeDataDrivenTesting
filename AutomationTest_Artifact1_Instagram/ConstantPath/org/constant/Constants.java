@@ -6,7 +6,7 @@ public class Constants {
 
     //("user.dir")+"/Drivers/chromedriver.exe"
  
-	public static String userProperties = System.getProperty("user.dir")+"/ObjectRepository/Object_repositories"; //properties file path
+	public static String userProperties = System.getProperty("user.dir")+"/ObjectRepository/Objectproperties"; //properties file path
 	
 	public static String appConfigPath = System.getProperty("user.dir")+"/src/configapp/Appconfig1.properties";
 	

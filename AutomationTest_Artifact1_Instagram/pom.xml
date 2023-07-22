@@ -1,21 +1,20 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">  
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>AutomationTest_Group1_Instagram</groupId>
-  <artifactId>AutomationTest_Artifact1_Instagram</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <groupId>AutomationTest_Group1_Instagram</groupId>                                                                                                                                                                                                     
+  <artifactId>AutomationTest_Artifact1_Instagram</artifactId> 
+  <version>0.0.1-SNAPSHOT</version> 
   <packaging>jar</packaging>
-
-  <name>AutomationTest_Artifact1_Instagram</name>
+  <name>AutomationTest_Artifact1_Instagram</name>  
   <url>http://maven.apache.org</url>
  
-  <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  <properties> 
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>    
   </properties>
   
   
- <!-- it is added to run through CMD -->
+ <!-- it is added to run through CMD --> 
  <build>  
      <plugins>  
       <plugin>  
@@ -120,6 +119,13 @@
     <artifactId>poi</artifactId>
     <version>3.12</version>
 </dependency>
+<dependency>
+	<groupId>org.apache.commons</groupId>
+	<artifactId>commons-io</artifactId>
+	<version>1.3.2</version>
+</dependency>
+<!-- Thanks for using https://jar-download.com -->
+
   </dependencies>
   
 </project>

@@ -1,3 +1,9 @@
-02-07-2023 14:06:58 INFO [Base]: Chrome Browser is launching...
-02-07-2023 14:07:12 INFO [Base]: chrome Browser is launched.
-02-07-2023 14:07:15 INFO [Base]: link opened
+22-07-2023 14:13:03 INFO [Base]: Chrome Browser is launching...
+22-07-2023 14:13:24 INFO [Base]: chrome Browser is launched.
+22-07-2023 14:13:24 INFO [Base]: application url is being opened...
+22-07-2023 14:13:33 INFO [Base]: application url is opened.
+22-07-2023 14:13:33 INFO [Base]: link opened
+22-07-2023 14:13:37 INFO [Base]: clicked on element
+22-07-2023 14:13:37 INFO [Base]: Element is Not Displayed
+22-07-2023 14:13:37 INFO [Base]: clicked on propertyelement
+22-07-2023 14:13:37 INFO [Base]: clicked on dwa
